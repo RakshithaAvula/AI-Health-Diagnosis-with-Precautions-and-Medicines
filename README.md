@@ -43,33 +43,19 @@ It uses Machine Learning algorithms (Decision Tree and Support Vector Machine) i
 
 ## 🏗️ System Architecture
 User Input (Symptoms)
-↓
+->
 Data Preprocessing
-↓
+->
 Trained ML Model
 (Decision Tree / SVM)
-↓
+->
 Disease Prediction
-↓
+->
 Precautions & Medicines
-↓
+->
 Output Display
 
 ---
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
-
-### 🔍 Prediction Result
-![Prediction Result](screenshots/Prediction_and_Precaution.png)
-
-### 🧩 Block Diagram
-![Block Diagram](screenshots/BlockDiagram.png)
-
----
-
 ## ⚙️ Working Process
 1. User enters symptoms in the web interface  
 2. Symptoms are converted into numerical format  
